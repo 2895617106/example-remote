@@ -10,7 +10,7 @@ int main()
     printf("adhere") ;
 
     printf("here") ;
-    printf("here") ;
+    printf("hello") ;
 
     return 0;
 }
