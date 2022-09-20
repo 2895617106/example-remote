@@ -6,6 +6,10 @@ int main()
 {
 
     printf("here") ;
+<<<<<<< HEAD
     printf("adhere") ;
+=======
+    printf("here") ;
+>>>>>>> refs/remotes/origin/main
     return 0;
 }
