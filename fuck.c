@@ -5,12 +5,7 @@
 int main()
 {
 
-    printf("here") ;
-
-    printf("adhere") ;
-
-    printf("here") ;
-    printf("hello") ;
+    printf("鱼") ;
 
     return 0;
 }
